@@ -1,1 +1,10 @@
-
+[
+    {
+        "package": "insectDisease",
+        "url": "https://github.com/viralemergence/insectDisease"
+    },
+    {
+        "package": "epizootic",
+        "url": "https://github.com/viralemergence/epizootic"
+    }
+]
