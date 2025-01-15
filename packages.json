@@ -2,6 +2,7 @@
     {
         "package": "insectDisease",
         "url": "https://github.com/viralemergence/insectDisease"
+        "branch":"fix/taxize"
     },
     {
         "package": "epizootic",
