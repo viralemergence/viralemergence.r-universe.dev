@@ -1,6 +1,8 @@
 # viralemergence.r-universe.dev
 R universe instance for the Verena Institute.
 
+ https://github.com/r-universe/viralemergence
+
 The R universe is a fully searchable database of R packages as well as a repository that you can install packages from.
 Our R universe instance 1) makes it easier to find our packages, 2) provides pre-built versions of packages for most operating systems, and 3) provides a landing page for packages that is informative for users and authors.  
 
