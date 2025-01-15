@@ -16,4 +16,4 @@ Please provide the package name and a url for a git repo.
  }
 ```
 
-If your package is contained within a folder or you need to specify a particular branch to be used for the build, see additional information in the [R-universe docs](https://docs.r-universe.dev/publish/set-up.html#tracking-custom-branches-or-releases)
+If your package is contained within a subfolder in your repo or you need to specify a particular branch to be used for the build, see additional information in the [R-universe docs](https://docs.r-universe.dev/publish/set-up.html#tracking-custom-branches-or-releases)
