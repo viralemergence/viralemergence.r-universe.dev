@@ -10,6 +10,8 @@ See [R Universe] Docuementation for more information.
 
 This R universe instance is meant to capture [R packages](https://r-pkgs.org/) developed by people at Verena. 
 
+Check out the search engine optimzation section in the [R Universe docs](https://docs.r-universe.dev/publish/metadata.html) for suggestions on how to increase findability for your package. 
+
 ## How to contribute
 
 All repositories containing R packages listed in our `packages.json` file will be published to our R Universe instance.
