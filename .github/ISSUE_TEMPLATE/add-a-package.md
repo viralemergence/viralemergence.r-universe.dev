@@ -3,7 +3,7 @@ name: Add a package
 about: Request that a package be added to the viralemergence R universe
 title: Please add [XXX] to the R universe
 labels: Add Package
-assignees: ''
+assignees: 'collinschwantes'
 
 ---
 
