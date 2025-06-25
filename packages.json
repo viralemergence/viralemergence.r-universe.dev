@@ -6,5 +6,13 @@
     {
         "package": "epizootic",
         "url": "https://github.com/viralemergence/epizootic"
+    },
+    {
+        "package": "virionData",
+        "url": "https://github.com/viralemergence/virionData/"
+    },
+    {
+        "package": "wddsWizard",
+        "url": "https://github.com/viralemergence/wddsWizard/"
     }
 ]
